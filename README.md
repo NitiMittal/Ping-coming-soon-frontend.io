@@ -28,7 +28,7 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 ### Links
 
 - Solution URL: https://github.com/NitiMittal/Ping-coming-soon-frontend.io
-- Live Site URL:
+- Live Site URL: https://ping-coming-soon-demo.netlify.app/
 
 ## My process
 
